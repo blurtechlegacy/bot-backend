@@ -1,6 +1,5 @@
 # Чат-бот NUCKles
-[![Maintainability](https://api.codeclimate.com/v1/badges/a8d381c585f7027a8a21/maintainability)](https://codeclimate.com/github/blurtech/bot-backend/maintainability) [![GitHub issues](https://img.shields.io/github/issues/blurtech/bot-backend.svg)](https://github.com/blurtech/bot-backend/issues)  [![HitCount](http://hits.dwyl.io/blurtech/bot-backend.svg)](http://hits.dwyl.io/blurtech/bot-backend)  
-
+[![Maintainability](https://qlty.sh/gh/batyshkaLenin/projects/tree-lib/maintainability.svg)](https://qlty.sh/gh/batyshkaLenin/projects/bot-backend) [![GitHub issues](https://img.shields.io/github/issues/blurtech/bot-backend.svg)](https://github.com/blurtech/bot-backend/issues)  
 Который умеет принимать и отправлять сообщения и распознавать их с помощью [алгоритма Левенштейна](https://dzone.com/articles/the-levenshtein-algorithm-1).  
 
 [Список изменений](CHANGELOG.md)  
